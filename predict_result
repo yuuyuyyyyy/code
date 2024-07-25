@@ -1,0 +1,54 @@
+"D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\venv\Scripts\python.exe" "D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\predict.py" 
+
+image 1/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-102_jpeg.rf.d15b34dc9a1e69aa996118a4c1a173ef.jpg: 640x640 5 Acnes, 99.1ms
+image 2/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-105_jpeg.rf.e9b2ecfb4afb0217f046179f125242d2.jpg: 640x640 12 Acnes, 85.3ms
+image 3/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-112_jpeg.rf.a03c796422719e964f46be1c118861bc.jpg: 640x640 19 Acnes, 83.7ms
+image 4/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-128_jpg.rf.e3826584d02398d0f1d915cf3365a959.jpg: 640x640 3 Acnes, 77.6ms
+image 5/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-140_jpg.rf.785b2c29676c422c6a1cdbe6708f86e8.jpg: 640x640 5 Acnes, 79.9ms
+image 6/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-144_jpg.rf.e7404e17167235e55bc46e5c3914e22f.jpg: 640x640 22 Acnes, 79.6ms
+image 7/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-151_jpg.rf.638c693eb9342b4800bd8b1758e566e1.jpg: 640x640 16 Acnes, 79.7ms
+image 8/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-155_jpg.rf.96681853cd48ff20eb8c2f0e3f32bdbf.jpg: 640x640 26 Acnes, 76.1ms
+image 9/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-158_jpg.rf.9c07578d00524a159f65bff978a79c5a.jpg: 640x640 6 Acnes, 80.7ms
+image 10/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-15_jpeg.rf.510f6ab6153777e8087f1439ef39d8cc.jpg: 640x640 12 Acnes, 82.1ms
+image 11/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-160_jpg.rf.b50f56372db5685c5301c83c555a777a.jpg: 640x640 3 Acnes, 81.1ms
+image 12/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-161_jpg.rf.78459635cae3ff835cac7159c10bce51.jpg: 640x640 1 Acne, 76.2ms
+image 13/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-166_jpg.rf.a12f2acc98f6a862f6d8b7d28306e6ff.jpg: 640x640 2 Acnes, 80.2ms
+image 14/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-167_jpg.rf.ca7f225b1a40cb053f3f590585061393.jpg: 640x640 2 Acnes, 77.2ms
+image 15/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-172_jpg.rf.f8ed4f69412f8420d6628e206113b64c.jpg: 640x640 2 Acnes, 79.8ms
+image 16/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-187_jpg.rf.a4bc43c7fb75ea9ddc00fa14bf06eda5.jpg: 640x640 8 Acnes, 79.1ms
+image 17/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-194_jpg.rf.1d82dbb7c1fa130420898223ef06720a.jpg: 640x640 15 Acnes, 78.1ms
+image 18/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-202_jpg.rf.3cb4d03fc5719519ae3f8319099eddef.jpg: 640x640 11 Acnes, 78.3ms
+image 19/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-206_jpg.rf.8c9e6075fe0cfed1632f82cf23a2d9e4.jpg: 640x640 10 Acnes, 75.7ms
+image 20/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-209_jpg.rf.a1dde106a5e5c3cd2b93666e9e226930.jpg: 640x640 16 Acnes, 78.1ms
+image 21/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-219_jpg.rf.49ae2c76139959c042cfa3cf03848824.jpg: 640x640 17 Acnes, 80.0ms
+image 22/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-230_jpg.rf.92c53cee80df6a2454765f7636b67d1a.jpg: 640x640 11 Acnes, 77.7ms
+image 23/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-236_jpg.rf.c937d8c3c60bac296eb9e3b9237e13aa.jpg: 640x640 10 Acnes, 76.1ms
+image 24/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-239_jpg.rf.08487e45a5ca975c038eabe8464b0c87.jpg: 640x640 27 Acnes, 80.6ms
+image 25/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-25_jpeg.rf.61edfe1eaf01bce48403a1a22f693a86.jpg: 640x640 34 Acnes, 78.2ms
+image 26/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-276_jpeg.rf.9d0990f99dee0e0ec17d89fd07384e0b.jpg: 640x640 2 Acnes, 74.6ms
+image 27/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-286_jpeg.rf.1b6bcca440593ac6e33617083f34a4c5.jpg: 640x640 8 Acnes, 77.7ms
+image 28/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-290_jpeg.rf.116ac413d37048340ce6c5b36e1b9d8a.jpg: 640x640 17 Acnes, 80.2ms
+image 29/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-329_jpeg.rf.705fb900ba87dc12538508177c52c8a6.jpg: 640x640 51 Acnes, 80.2ms
+image 30/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-32_jpeg.rf.6cfebd1da197182fd10391fc051d7308.jpg: 640x640 7 Acnes, 76.7ms
+image 31/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-33_jpeg.rf.5f883b1bb6eacef56d03175d54955561.jpg: 640x640 22 Acnes, 76.4ms
+image 32/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-355_jpeg.rf.a407ad30612ee0eea150efed8772694d.jpg: 640x640 12 Acnes, 81.6ms
+image 33/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-370_jpeg.rf.a774873f1db723d298598b08cfc47315.jpg: 640x640 24 Acnes, 78.4ms
+image 34/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-404_jpeg.rf.120f5acce0b15ea040f6e1a6f8a16dd5.jpg: 640x640 15 Acnes, 77.7ms
+image 35/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-422_jpeg.rf.c90a75e149931778d9c643273737df59.jpg: 640x640 6 Acnes, 78.6ms
+image 36/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-440_jpeg.rf.74f7f4b7cabd5d5e65c05367b20cb921.jpg: 640x640 10 Acnes, 78.5ms
+image 37/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-457_jpeg.rf.96817d48e7a4fe76651012d96df43141.jpg: 640x640 12 Acnes, 78.7ms
+image 38/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-49_jpeg.rf.3c951af43df31b304067823e836ec20b.jpg: 640x640 5 Acnes, 77.6ms
+image 39/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-57_jpeg.rf.b9ed02768080fdfcf648eef4e58c1904.jpg: 640x640 6 Acnes, 80.5ms
+image 40/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-5_jpeg.rf.2d6671715f0149df7b494c4d3f12a98b.jpg: 640x640 16 Acnes, 75.4ms
+image 41/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-60_jpeg.rf.f2694c8e6226c725ff40b771560b5e06.jpg: 640x640 9 Acnes, 79.7ms
+image 42/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-70_jpeg.rf.79a8da468a25fbeeb5a047793a3e9a4d.jpg: 640x640 2 Acnes, 80.7ms
+image 43/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-75_jpeg.rf.d648e68373adc0adfd965b63d4632a48.jpg: 640x640 3 Acnes, 79.4ms
+image 44/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-7_jpeg.rf.34ee37b930f592f787bb8d1bf6b37d30.jpg: 640x640 7 Acnes, 75.2ms
+image 45/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-84_jpeg.rf.040421ad53965f5f41ddc6f6a8edef9f.jpg: 640x640 8 Acnes, 84.8ms
+image 46/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-92_jpeg.rf.ffaa4abd4c59b50edc52a68d96de7679.jpg: 640x640 4 Acnes, 125.5ms
+image 47/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-95_jpeg.rf.28c5c0321aca3fbff22844c56937dbfd.jpg: 640x640 20 Acnes, 93.8ms
+image 48/48 D:\Manual\PyCharm Community Edition 2023.3.2\pythonProject\yolov10-main\data-2\test\images\acne-99_jpeg.rf.38ff75b46468fb68d29e4125bde66e86.jpg: 640x640 6 Acnes, 80.9ms
+Speed: 2.5ms preprocess, 80.7ms inference, 0.9ms postprocess per image at shape (1, 3, 640, 640)
+Results saved to runs\detect\predict3
+
+Process finished with exit code 0
